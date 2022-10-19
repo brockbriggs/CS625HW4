@@ -183,8 +183,8 @@ along with hospitalizations number against the hospital vaccine doses
 (signifying a hospital visit) in a line chart format over time to
 display the strain on hospitals.
 
-Any time we have just a few categorical variables plotted over time,
-line charts tend to win at display data effectively. Given the sum of
+Any time we have a few categorical variables plotted over time, line
+charts tend to win at display data effectively. Given the sum of
 hospitalizations and sum of hospital administered vaccines likely have
 large differences in count, I would plot each on it’s own axis. While
 these aren’t directly comparable metrics and don’t mean a lot in the
